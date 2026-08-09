@@ -31,24 +31,25 @@
     -   Business Intelligence (BI)
     -   Business Applications
 
+
 ## Data Roles
 
-  -----------------------------------------------------------------------
-  Role          Primary Responsibility
-  ------------- ---------------------------------------------------------
-  **Data        Build pipelines and infrastructure
-  Engineer**    
+### 🛠️ Data Engineer
+- Builds and maintains data pipelines and infrastructure.
+- Ensures data is reliable, scalable, and analytics-ready.
 
-  **Data        Analyze data and create reports
-  Analyst**     
+### 📊 Data Analyst
+- Analyzes data to uncover insights.
+- Creates reports and dashboards for decision-making.
 
-  **Data        Build predictive ML models
-  Scientist**   
+### 🤖 Data Scientist
+- Develops machine learning and predictive models.
+- Solves complex business problems using data.
 
-  **Business    Convert insights into business decisions
-  Analyst / BI  
-  Analyst**     
-  -----------------------------------------------------------------------
+### 💼 Business Analyst / BI Analyst
+- Translates analytical insights into business decisions.
+- Helps stakeholders drive strategy and performance.
+
 
 ### Specialized Data Roles
 
