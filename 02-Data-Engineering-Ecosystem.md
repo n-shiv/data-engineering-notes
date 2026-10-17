@@ -22,9 +22,9 @@ A Data Engineer works with tools and technologies to:
 
 ------------------------------------------------------------------------
 
-# 📊 Types of Data
+## 📊 Types of Data
 
-## Structured Data
+### Structured Data
 
 -   Fixed schema
 -   Stored in rows & columns
@@ -32,22 +32,20 @@ A Data Engineer works with tools and technologies to:
 
 **Examples** - SQL Databases - Excel - Transaction Records
 
-## Semi-Structured Data
+### Semi-Structured Data
 
 -   No fixed schema
 -   Uses metadata/tags
 
 **Examples** - JSON - XML - Emails
 
-## Unstructured Data
+### Unstructured Data
 
 -   No predefined structure
 
 **Examples** - Images - Videos - PDFs - Social Media - Audio
 
 ------------------------------------------------------------------------
-
-# 📂 Common File Formats
 
 ## 📂 Common File Formats
 
@@ -62,7 +60,7 @@ A Data Engineer works with tools and technologies to:
 
 ------------------------------------------------------------------------
 
-# 🔗 Data Sources
+## 🔗 Data Sources
 
 -   **Internal:** Relational DBs, Data Warehouses, ERP, CRM
 -   **External:** APIs, Web Services, Government Datasets, Third-party
@@ -72,15 +70,15 @@ A Data Engineer works with tools and technologies to:
 
 ------------------------------------------------------------------------
 
-# 💾 Data Repositories
+## 💾 Data Repositories
 
-## Database
+### Database
 
 Stores operational data.
 
 Examples: MySQL, PostgreSQL, Oracle, SQL Server
 
-## Data Warehouse
+### Data Warehouse
 
 -   Clean, transformed, analytics-ready data
 -   Historical data
@@ -90,11 +88,11 @@ Examples: MySQL, PostgreSQL, Oracle, SQL Server
 
 Examples: Snowflake, Amazon Redshift, BigQuery
 
-## Data Mart
+### Data Mart
 
 Department-specific subset of a Data Warehouse.
 
-## Data Lake
+### Data Lake
 
 Stores raw structured, semi-structured and unstructured data.
 
@@ -104,7 +102,7 @@ Examples: Amazon S3, Hadoop
 
 ------------------------------------------------------------------------
 
-# 📝 What is a Schema?
+## 📝 What is a Schema?
 
 A **schema** defines **how data is organized and structured** in a
 database or data repository.
@@ -148,16 +146,16 @@ Key, Foreign Key, NOT NULL, etc.)
 -   **Semi-structured data** → Partial/Flexible schema (e.g., JSON, XML)
 -   **Unstructured data** → No predefined schema
 
-# SQL vs NoSQL
+## SQL vs NoSQL
 
-## SQL
+### SQL
 
 -   Fixed Schema
 -   ACID Compliance
 -   Strong Consistency
 -   Complex Joins
 
-## NoSQL
+### NoSQL
 
 -   Flexible Schema
 -   High Scalability
@@ -169,15 +167,15 @@ Column → Cassandra, HBase - Graph → Neo4j, CosmosDB
 
 ------------------------------------------------------------------------
 
-# 🔄 ETL vs ELT
+## 🔄 ETL vs ELT
 
-## ETL
+### ETL
 
 Extract → Transform → Load
 
 Best for Data Warehouses.
 
-## ELT
+### ELT
 
 Extract → Load → Transform
 
@@ -185,7 +183,7 @@ Best for Data Lakes and Big Data.
 
 ------------------------------------------------------------------------
 
-# 🚀 Data Pipeline
+## 🚀 Data Pipeline
 
 Moves data from source to destination.
 
@@ -229,7 +227,7 @@ Provides business context for data.
 
 ------------------------------------------------------------------------
 
-# 💻 Programming Languages
+## 💻 Programming Languages
 
 -   SQL
 -   Python
@@ -240,7 +238,7 @@ Provides business context for data.
 
 ------------------------------------------------------------------------
 
-# 🌍 Big Data (5 Vs)
+## 🌍 Big Data (5 Vs)
 
 - **Volume** – The massive amount of data generated and stored every day.
 - **Velocity** – The speed at which data is generated, processed, and analyzed.
@@ -250,20 +248,20 @@ Provides business context for data.
 
 ------------------------------------------------------------------------
 
-# ⚡ Big Data Technologies
+## ⚡ Big Data Technologies
 
-## Hadoop
+### Hadoop
 
 -   Distributed Storage
 -   HDFS
 -   Fault Tolerant
 
-## Hive
+### Hive
 
 -   SQL on Hadoop
 -   Data Warehousing
 
-## Spark
+### Spark
 
 -   In-memory Processing
 -   Real-time Analytics
@@ -271,7 +269,7 @@ Provides business context for data.
 
 ------------------------------------------------------------------------
 
-# 🛠 Common Data Engineering Tools
+## 🛠 Common Data Engineering Tools
 
 -   PostgreSQL
 -   MySQL
@@ -288,7 +286,7 @@ Provides business context for data.
 
 ------------------------------------------------------------------------
 
-# ⭐ Key Takeaways
+## ⭐ Key Takeaways
 
 -   Data can be Structured, Semi-Structured or Unstructured.
 -   Choose repositories based on use case.
